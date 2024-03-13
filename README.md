@@ -2,11 +2,11 @@
 ## How to download and use this package:
 1. Open R in a prefered way of your choice, an example would be R studio, or in jupyter lab.
    
-2. If the package devtools in not already downloaded in R, first download it using:`
+2. If the package devtools in not already downloaded in R, first download it using:
 
-```
-install.packages("devtools")
-```
+   ```
+   install.packages("devtools")
+   ```
 
 3. Load the devtools library using
 
