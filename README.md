@@ -22,7 +22,8 @@
     ```
    library(FunAlg)
     ```
-6. You can now use the stable_marriage function. It takes two preference tables in a data frame from and ouputs a stable matching. An example of this provided in the jupyter notebook file named "Question 4 and 5" in my github repository called 601-Assessment 3.
+6. You can now use the stable_marriage function. It takes two preference tables in a data frame from and ouputs a stable matching. An example of this provided under the heading Task 4 in the jupyter notebook file named "Question 3 and 4": [Link to Notebook]([https://github.com/KajalDodhia/STOR601-Assessment-3-Q3-4/blob/main/Question%203%20and%204.ipynb].
+
    
    
 ### How to download it by putting everything in repository into a folder (locally):
