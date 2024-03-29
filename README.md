@@ -22,7 +22,7 @@
     ```
    library(FunAlg)
     ```
-6. You can now use the stable_marriage function. It takes two preference tables in a data frame from and ouputs a stable matching. 
+6. You can now use the stable_marriage function. It takes two preference tables in a R data frames as inputs and ouputs a stable matching. Alternatively it can also take a list of vector of string format as inputs.
 
    
 ### How to download it by putting everything in repository into a folder (locally):
